@@ -5,10 +5,12 @@ public
 public/
 ADtvMedia
 ADtvMedia/
+ffplayout/
 live
 live/
 playlists
 playlists/
+venv/
 tmp
 tmp/
 ._*
