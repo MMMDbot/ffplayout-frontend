@@ -10,6 +10,4 @@ read values from ffplayout config file
 function get_yaml() {
     return yaml_parse_file("/etc/ffplayout/ffplayout.yml", 0);
 }
-
-$yaml = get_yaml();
 ?>
